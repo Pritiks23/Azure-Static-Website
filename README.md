@@ -6,7 +6,7 @@ Go see my Azure Static Website I created here: https://pritikasstoragegroup.z13.
 
 # Azure Storage Static Website Demo
 
-This repository contains a text-heavy tutorial website demonstrating how to set up an Azure Storage Static Website. The project is designed to be hosted entirely on Azure's `$web` container without requiring any backend or server.
+I created a Azure Static Website on how to set up an Azure Storage Static Website, I know **IRONIC**. The project is designed to be hosted entirely on Azure's `$web` container without requiring any backend or server.
 
 ## **Project Overview**
 
